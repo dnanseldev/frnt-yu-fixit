@@ -1,1 +1,3 @@
-# frnt-yu-fixit
+# React + TypeScript + Vite
+
+Frontend of User's Management
